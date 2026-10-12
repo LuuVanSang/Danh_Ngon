@@ -1,0 +1,3006 @@
+{
+  "version": 4,
+  "total": 500,
+  "quotes": [
+    {
+      "id": "vn0001",
+      "text": "Không có gì quý hơn độc lập, tự do.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0002",
+      "text": "Không có việc gì khó, chỉ sợ lòng không bền, đào núi và lấp biển, quyết chí ắt làm nên.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0003",
+      "text": "Có tài mà không có đức là người vô dụng, có đức mà không có tài thì làm việc gì cũng khó.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0004",
+      "text": "Học để làm việc, làm người, làm cán bộ. Học để phụng sự đoàn thể, giai cấp và nhân dân, Tổ quốc và nhân loại.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0005",
+      "text": "Học hỏi là một việc phải tiếp tục suốt đời.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0006",
+      "text": "Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0007",
+      "text": "Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0008",
+      "text": "Cần, kiệm, liêm, chính, chí công vô tư.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0009",
+      "text": "Cái gì cũ mà xấu thì phải bỏ. Cái gì cũ mà không xấu, nhưng phiền phức thì phải sửa đổi lại cho hợp lý. Cái gì cũ mà tốt thì phải phát triển thêm.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0010",
+      "text": "Hễ còn một người Việt Nam bị bóc lột, bị nghèo nàn, thì tôi vẫn thấy rằng tôi chưa làm tròn nhiệm vụ.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0011",
+      "text": "Nước lấy dân làm gốc. Dân là gốc của nước, gốc có vững thì cây mới bền.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0012",
+      "text": "Một năm khởi đầu từ mùa xuân. Một đời khởi đầu từ tuổi trẻ. Tuổi trẻ là mùa xuân của xã hội.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0013",
+      "text": "Lòng yêu nước của nhân dân ta như một làn sóng vô cùng mạnh mẽ, to lớn, nó lướt qua mọi sự nguy hiểm, khó khăn.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0014",
+      "text": "Cán bộ là cái gốc của mọi công việc. Muôn việc thành công hoặc thất bại, đều do cán bộ tốt hoặc kém.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0015",
+      "text": "Tự lực cánh sinh, dựa vào sức mình là chính.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0016",
+      "text": "Làm việc gì cũng phải có cái tâm trong sáng và tinh thần trách nhiệm cao.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0017",
+      "text": "Người cách mạng phải có đạo đức cách mạng làm nền tảng, mới hoàn thành được nhiệm vụ vẻ vang.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0018",
+      "text": "Giữ gìn sự đoàn kết nhất trí của Đảng như giữ gìn con ngươi của mắt mình.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0019",
+      "text": "Non sông Việt Nam có trở nên tươi đẹp hay không, chính là nhờ một phần lớn ở công học tập của các em.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0020",
+      "text": "Biết đồng lòng thì việc gì cũng làm được.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0021",
+      "text": "Học tập không bao giờ cùng, còn sống là còn phải học.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0022",
+      "text": "Khiêm tốn là một đạo đức cao đẹp của người cách mạng.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0023",
+      "text": "Gian nan rèn luyện mới thành công.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0024",
+      "text": "Kiên quyết, bền bỉ, nhẫn nại, không sợ khó khăn, không sợ gian khổ.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0025",
+      "text": "Ý chí vững vàng, niềm tin sắt đá thì phong ba bão táp nào cũng vượt qua.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0026",
+      "text": "Thanh niên là rường cột của nước nhà, chủ nhân tương lai của đất nước.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0027",
+      "text": "Nói đi đôi với làm, phải nêu gương sáng cho đời.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0028",
+      "text": "Tình thương yêu đồng bào là nguồn sức mạnh vô tận.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0029",
+      "text": "Trong bầu trời không gì quý bằng nhân dân. Trong thế giới không gì mạnh bằng lực lượng đoàn kết của nhân dân.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0030",
+      "text": "Càng trong khó khăn thử thách, ngọn lửa ý chí càng phải bùng cháy sáng ngời.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0031",
+      "text": "Thiện căn ở tại lòng ta, Chữ tâm kia mới bằng ba chữ tài.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0032",
+      "text": "Trăm năm trong cõi người ta, Chữ tài chữ mệnh khéo là ghét nhau.",
+      "author": "Nguyễn Du",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0033",
+      "text": "Sầu đong càng lắc càng đầy, Ba thu dọn lại một ngày dài ghê.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0034",
+      "text": "Người buồn cảnh có vui đâu bao giờ.",
+      "author": "Nguyễn Du",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0035",
+      "text": "Hoa cười ngọc thốt đoan trang, Mây thua nước tóc tuyết nhường màu da.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0036",
+      "text": "Mai cốt cách, tuyết tinh thần, Mỗi người một vẻ mười phân vẹn mười.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0037",
+      "text": "Dẫu lìa ngó ý còn vương tơ lòng.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0038",
+      "text": "Đoái thương muôn dặm đường xa, Một lời là một giọt châu chan hòa.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0039",
+      "text": "Bề ngoài thong thả trong lòng ngổn ngang.",
+      "author": "Nguyễn Du",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0040",
+      "text": "Trải qua một cuộc bể dâu, Những điều trông thấy mà đau đớn lòng.",
+      "author": "Nguyễn Du",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0041",
+      "text": "Chữ tâm sáng tựa vầng trăng, Soi đường chỉ lối vượt ngàn bể sâu.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0042",
+      "text": "Vầng trăng ai xẻ làm đôi, Nửa in gối chiếc nửa soi dặm trường.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0043",
+      "text": "Thương nhau mấy núi cũng trèo, Mấy sông cũng lội mấy đèo cũng qua.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0044",
+      "text": "Có tài mà cậy chi tài, Chữ tài liền với chữ tai một vần.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0045",
+      "text": "Cội nguồn ơn đức sinh thành, Biển sâu khôn sánh non cao khó bì.",
+      "author": "Nguyễn Du",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0046",
+      "text": "Trời còn để có hôm nay, Tan sương đầu ngõ vén mây giữa trời.",
+      "author": "Nguyễn Du",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0047",
+      "text": "Một lời đã hẹn cùng nhau, Dẫu mòn bia đá chẳng phai lòng vàng.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0048",
+      "text": "Cảnh nào cảnh chẳng đeo sầu, Người buồn cảnh có bao giờ được tươi.",
+      "author": "Nguyễn Du",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0049",
+      "text": "Hoa thơm nhờ gốc vun bồi, Người nên danh phận bởi lời dạy răn.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0050",
+      "text": "Gìn vàng giữ ngọc cho hay, Cho đành lòng kẻ chân mây cuối trời.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0051",
+      "text": "Việc nhân nghĩa cốt ở yên dân, Quân điếu phạt trước lo trừ bạo.",
+      "author": "Nguyễn Trãi",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0052",
+      "text": "Nước Đại Việt ta từ trước, vốn xưng nền văn hiến đã lâu.",
+      "author": "Nguyễn Trãi",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0053",
+      "text": "Đem đại nghĩa để thắng hung tàn, Lấy chí nhân để thay cường bạo.",
+      "author": "Nguyễn Trãi",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0054",
+      "text": "Họa phúc khôn lường, đạo làm người cốt ở lòng thanh thản.",
+      "author": "Nguyễn Trãi",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0055",
+      "text": "Bui một tấc lòng ưu ái cũ, Đêm ngày cuồn cuộn nước triều đông.",
+      "author": "Nguyễn Trãi",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0056",
+      "text": "Non nước thanh bình nhờ nghĩa khí, Tâm hồn phẳng lặng tựa gương soi.",
+      "author": "Nguyễn Trãi",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0057",
+      "text": "Lấy chí nhân quy phục lòng người, ấy là đạo bền vững muôn thuở.",
+      "author": "Nguyễn Trãi",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0058",
+      "text": "Dầu dãi bao mùa mưa nắng gội, Giữ tròn tiết thấu giữa trời đông.",
+      "author": "Nguyễn Trãi",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0059",
+      "text": "Cây có gốc mới nở cành xanh ngọn, Nước có nguồn mới bủa khắp rạch sông.",
+      "author": "Nguyễn Trãi",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0060",
+      "text": "Tấc đất ngọn rau đều ơn nước, Lòng thành chẳng gợn chút tơ vương.",
+      "author": "Nguyễn Trãi",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0061",
+      "text": "Thuyền chèo ngược nước chẳng tiến ắt lùi, Người học không chuyên ắt sinh thoái chí.",
+      "author": "Nguyễn Trãi",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0062",
+      "text": "Dẹp muôn mối loạn nhờ dân thuận, Giữ trọn cơ đồ cậy đức thanh.",
+      "author": "Nguyễn Trãi",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0063",
+      "text": "Ta dại ta tìm nơi vắng vẻ, Người khôn người đến chốn lao xao.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0064",
+      "text": "Thu ăn măng trúc, đông ăn giá, Xuân tắm hồ sen, hạ tắm ao.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0065",
+      "text": "Rượu đến cội cây ta sẽ uống, Nhìn xem phú quý tựa chiêm bao.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0066",
+      "text": "Ở đời lặn lội danh cùng lợi, Mấy kẻ ung dung ngắm mây trời.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0067",
+      "text": "Thanh thản một bầu vui với nguyệt, Hà tất bon chen giữa bụi trần.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0068",
+      "text": "Nơi nào có đức thì nơi đó có phúc.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0069",
+      "text": "Hoa tàn hoa nở tuần hoàn mãi, Lòng phẳng như gương mặc gió lay.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0070",
+      "text": "Chớ cậy thông minh lừa dối thế, Hãy gìn chất phác giữ tâm an.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0071",
+      "text": "Thân nhàn tâm lắng không vướng bận, Tiếng suối reo vui bạn sớm chiều.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0072",
+      "text": "Biết đủ là giàu, biết dừng là thoát khỏi tai họa.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0073",
+      "text": "Khoan thư sức dân để làm kế sâu rễ bền gốc, đó là thượng sách giữ nước.",
+      "author": "Trần Hưng Đạo",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0074",
+      "text": "Nếu bệ hạ muốn hàng, xin trước hết hãy chém đầu thần rồi hãy hàng.",
+      "author": "Trần Hưng Đạo",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0075",
+      "text": "Chim ưng đánh đập không quản lông rơi, sư tử vồ mồi không lùi bước trước hiểm nguy.",
+      "author": "Trần Hưng Đạo",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0076",
+      "text": "Binh quý ở chỗ tinh nhuệ, không quý ở số đông; tướng quý ở lòng quả cảm và đức độ.",
+      "author": "Trần Hưng Đạo",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0077",
+      "text": "Tướng sĩ một lòng phụ tử, quân dân hòa khí đồng cam cộng khổ, ắt bách chiến bách thắng.",
+      "author": "Trần Hưng Đạo",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0078",
+      "text": "Học đạo cốt ở chỗ sửa mình, dạy người cốt ở lòng liêm chính.",
+      "author": "Chu Văn An",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0079",
+      "text": "Kẻ sĩ lấy khí tiết làm trọng, chẳng màng bổng lộc hư danh.",
+      "author": "Chu Văn An",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0080",
+      "text": "Trời đất có đức hiếu sinh, người quân tử có lòng yêu người vô tận.",
+      "author": "Chu Văn An",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0081",
+      "text": "Nghiêm cẩn với chính mình trước khi đòi hỏi người khác kính phục.",
+      "author": "Chu Văn An",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0082",
+      "text": "Dẫu có núi vàng biển bạc, chẳng bằng một pho sách quý trao tay.",
+      "author": "Lê Quý Đôn",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0083",
+      "text": "Học mà không suy nghĩ thì mờ tối, suy nghĩ mà không học thì nông cạn.",
+      "author": "Lê Quý Đôn",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0084",
+      "text": "Tri thức là ngọn đuốc soi đường giữa đêm tối mênh mông.",
+      "author": "Lê Quý Đôn",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0085",
+      "text": "Vạn quyển sách đọc qua chưa đủ, phải bước chân đi khắp bốn phương trời.",
+      "author": "Lê Quý Đôn",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0086",
+      "text": "Đạo làm thuốc là một nhân thuật, chuyên lo cứu sống người, phải lấy lòng nhân ái làm đầu.",
+      "author": "Hải Thượng Lãn Ông (Lê Hữu Trác)",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0087",
+      "text": "Không có nghề nào nhân đạo bằng nghề cứu người, không có tội nào nặng bằng tội cẩu thả hại người.",
+      "author": "Hải Thượng Lãn Ông (Lê Hữu Trác)",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0088",
+      "text": "Dưỡng tâm là gốc của dưỡng thân. Tâm có an thì thân mới khỏe.",
+      "author": "Hải Thượng Lãn Ông (Lê Hữu Trác)",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0089",
+      "text": "Thanh thản tâm can, điều hòa khí huyết, không vướng tham sân ắt trường thọ.",
+      "author": "Hải Thượng Lãn Ông (Lê Hữu Trác)",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0090",
+      "text": "Hít vào tâm tĩnh lặng, Thở ra miệng mỉm cười.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0091",
+      "text": "Hiện tại là giây phút duy nhất bạn có thể thực sự tiếp xúc với cuộc sống.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0092",
+      "text": "Thấu hiểu nỗi đau của người khác chính là món quà tình yêu vĩ đại nhất.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0093",
+      "text": "Mỗi hơi thở ý thức là một bước chân trở về với ngôi nhà bình yên nội tại.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0094",
+      "text": "Không có con đường dẫn đến hòa bình, hòa bình chính là con đường.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0095",
+      "text": "Nụ cười của bạn đem lại niềm vui cho bạn, và nụ cười ấy cũng làm bừng sáng cuộc đời của người khác.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0096",
+      "text": "Hãy mỉm cười, thở sâu và bước đi chậm rãi.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0097",
+      "text": "Không có bùn thì không có sen. Nỗi khổ niềm đau cũng là dưỡng chất nuôi lớn tuệ giác.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0098",
+      "text": "Lắng nghe sâu với lòng trắc ẩn có thể chữa lành vết thương sâu kín nhất.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0099",
+      "text": "Tự do lớn nhất là tự do khỏi những định kiến và phán xét trong tâm trí mình.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0100",
+      "text": "An trú trong hiện tại là chìa khóa mở cánh cửa hạnh phúc đích thực.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0101",
+      "text": "Cơn giận tựa ngọn lửa thiêu đốt chính người mang nó trước tiên.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0102",
+      "text": "Mỗi buổi sớm mai thức dậy, tôi mỉm cười vì có thêm 24 giờ tinh khôi để sống và thương yêu.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0103",
+      "text": "Buông bỏ không phải là mất đi, mà là giải phóng tâm hồn khỏi những trói buộc vô hình.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0104",
+      "text": "Hạnh phúc luôn sẵn có ở đây và bây giờ, chỉ cần bạn dừng lại và nhận diện nó.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0105",
+      "text": "Thân như điện ảnh hữu hoàn vô, Vạn mộc xuân vinh thu hữu khô. Nhậm vận thịnh suy vô bố úy, Thịnh suy như lộ thảo đầu phô.",
+      "author": "Thiền sư Vạn Hạnh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0106",
+      "text": "Mạc vị xuân tàn hoa lạc tận, Đình tiền tạc dạ nhất chi mai. (Chớ bảo xuân tàn hoa rụng hết, Đêm qua sân trước một cành mai).",
+      "author": "Mãn Giác Thiền Sư",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0107",
+      "text": "Ở đời vui đạo hãy tùy duyên, Hễ đói thì ăn, mệt nghỉ liền. Trong nhà có báu thôi tìm kiếm, Đối cảnh vô tâm chớ hỏi thiền.",
+      "author": "Trần Nhân Tông (Trúc Lâm)",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0108",
+      "text": "Tâm bình thế giới bình, Tâm an vạn sự an.",
+      "author": "Thiền học Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0109",
+      "text": "Gió lay trúc động, gió thoảng trúc ngừng; Nhạn qua hồ trong, bóng chim chẳng lưu dấu.",
+      "author": "Thiền phái Trúc Lâm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0110",
+      "text": "Mỗi bước chân chạm vào mặt đất là một đóa sen nở trong lòng.",
+      "author": "Thiền tông Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0111",
+      "text": "Mặt nước lặng mới soi bóng trăng vàng, lòng người tịnh mới thấy chân lý tỏ rạng.",
+      "author": "Thiền học Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0112",
+      "text": "Ví phỏng đường đời bằng phẳng cả, Anh hùng hào kiệt có hơn ai.",
+      "author": "Phan Bội Châu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0113",
+      "text": "Sống mà không có chí khí thì khác nào cây cỏ khô héo bên đường.",
+      "author": "Phan Bội Châu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0114",
+      "text": "Dậy! Dậy! Dậy! Mau mau thức tỉnh mà đền nợ nước, trả ơn non sông.",
+      "author": "Phan Bội Châu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0115",
+      "text": "Dẫu trăm lần ngã, quyết một lòng đứng dậy tiến lên.",
+      "author": "Phan Bội Châu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0116",
+      "text": "Đã mang tiếng ở trong trời đất, Phải có danh gì với núi sông.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0117",
+      "text": "Không công danh thà nát với cỏ cây, Có chí khí mới làm nên đại nghiệp.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0118",
+      "text": "Trời đất cho ta một tấm thân, Phải làm sao cho rạng rỡ phong trần.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0119",
+      "text": "Được mất dương dương người thái thượng, Khen chê phơi phới ngọn đông phong.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0120",
+      "text": "Tri túc tiện túc, đãi túc hà thời túc. Tri nhàn tiện nhàn, đãi nhàn hà thời nhàn.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0121",
+      "text": "Một người có lòng tự trọng thì không bao giờ hạ thấp nhân phẩm của mình trước nghịch cảnh.",
+      "author": "Nam Cao",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0122",
+      "text": "Kẻ mạnh không phải là kẻ giẫm lên vai kẻ khác để thỏa mãn lòng ích kỷ. Kẻ mạnh chính là kẻ giúp đỡ kẻ khác trên đôi vai của mình.",
+      "author": "Nam Cao",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0123",
+      "text": "Hạnh phúc là một tấm chăn hẹp, người này co thì người khác hở. Hãy học cách nhường nhịn và sẻ chia.",
+      "author": "Nam Cao",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0124",
+      "text": "Cái đẹp kín đáo và sâu lắng của cuộc đời thường ẩn sau những điều giản dị nhất.",
+      "author": "Thạch Lam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0125",
+      "text": "Văn chương là một thứ khí giới thanh cao và đắc lực làm cho lòng người thêm trong sạch và phong phú hơn.",
+      "author": "Thạch Lam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0126",
+      "text": "Mau với chứ, vội vàng lên với chứ, Em, em ơi, tình non sắp già rồi.",
+      "author": "Xuân Diệu",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0127",
+      "text": "Thà một phút huy hoàng rồi chợt tối, Còn hơn buồn le lói suốt trăm năm.",
+      "author": "Xuân Diệu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0128",
+      "text": "Yêu là chết ở trong lòng một ít, Vì mấy khi yêu mà chắc được yêu.",
+      "author": "Xuân Diệu",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0129",
+      "text": "Mặt trời xuống biển như hòn lửa, Sóng đã cài then đêm sập cửa. Đoàn thuyền đánh cá lại ra khơi, Câu hát căng buồm cùng gió khơi.",
+      "author": "Huy Cận",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0130",
+      "text": "Khi ta ở, chỉ là nơi đất ở. Khi ta đi, đất đã hóa tâm hồn.",
+      "author": "Chế Lan Viên",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0131",
+      "text": "Đường đời lắm ghềnh thác, nhưng đôi chân vững vàng và tấm lòng chân thật sẽ đưa ta qua tất cả.",
+      "author": "Tô Hoài",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0132",
+      "text": "Ở đời quý nhất là sự chân thành và niềm đam mê tận hiến cho cái đẹp.",
+      "author": "Nguyễn Tuân",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0133",
+      "text": "Có công mài sắt, có ngày nên kim.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0134",
+      "text": "Lửa thử vàng, gian nan thử sức.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0135",
+      "text": "Chớ thấy sóng cả mà ngã tay chèo.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0136",
+      "text": "Thua keo này ta bày keo khác.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0137",
+      "text": "Ngọc kia chuốt mãi cũng tròn, sắt kia mài mãi cũng còn nên kim.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0138",
+      "text": "Kiến tha lâu cũng đầy tổ.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0139",
+      "text": "Nước chảy đá mòn, người kiên gan ắt thành tựu.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0140",
+      "text": "Thất bại là mẹ thành công.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0141",
+      "text": "Học thầy không tày học bạn.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0142",
+      "text": "Học ăn, học nói, học gói, học mở.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0143",
+      "text": "Đi một ngày đàng, học một sàng khôn.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0144",
+      "text": "Muốn biết phải hỏi, muốn giỏi phải học.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0145",
+      "text": "Văn hay chẳng lọ đọc dài, chữ tốt không quản nét dày nét thanh.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0146",
+      "text": "Dốt đến đâu học lâu cũng biết.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0147",
+      "text": "Dao năng liếc thì sắc, người năng học thì thông.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0148",
+      "text": "Cần cù bù thông minh.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0149",
+      "text": "Thắng không kiêu, bại không nản.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0150",
+      "text": "Có chí thì nên, có nền thì vững.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0151",
+      "text": "Có khó mới có miếng ăn, không dưng ai dễ đem phần đến cho.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0152",
+      "text": "Tay làm hàm nhai, tay quai miệng trễ.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0153",
+      "text": "Trăm hay không bằng tay quen.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0154",
+      "text": "Có công khó, có ngày nên vinh hiển.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0155",
+      "text": "Dốc lòng tát cạn biển đông, còn hơn ngồi ngắm mà không làm gì.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0156",
+      "text": "Trèo đèo mới biết đèo cao, lội sông mới biết nông sâu mấy trùng.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0157",
+      "text": "Lời nói chẳng mất tiền mua, Lựa lời mà nói cho vừa lòng nhau.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0158",
+      "text": "Gần mực thì đen, gần đèn thì rạng.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0159",
+      "text": "Thuốc đắng dã tật, sự thật mất lòng.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0160",
+      "text": "Uống nước nhớ nguồn, Ăn quả nhớ kẻ trồng cây.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0161",
+      "text": "Ăn ngay nói thật, mọi tật mọi lành.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0162",
+      "text": "Giấy rách phải giữ lấy lề.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0163",
+      "text": "Đói cho sạch, rách cho thơm.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0164",
+      "text": "Cây ngay không sợ chết đứng.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0165",
+      "text": "Một điều nhịn, chín điều lành.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0166",
+      "text": "Ở hiền gặp lành, gieo gió gặt bão.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0167",
+      "text": "Nhập gia tùy tục, đáo giang tùy khúc.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0168",
+      "text": "Biết người biết ta, trăm trận trăm thắng.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0169",
+      "text": "Kim vàng ai nỡ uốn câu, Người khôn ai nỡ nói nhau nặng lời.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0170",
+      "text": "Khôn ngoan chẳng lọ nói nhiều, Người khôn ngắm bóng người hiền trông phong.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0171",
+      "text": "Thương người như thể thương thân.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0172",
+      "text": "Lá lành đùm lá rách, lá rách đùm lá nát.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0173",
+      "text": "Bầu ơi thương lấy bí cùng, Tuy rằng khác giống nhưng chung một giàn.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0174",
+      "text": "Nhiễu điều phủ lấy giá gương, Người trong một nước phải thương nhau cùng.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0175",
+      "text": "Một con ngựa đau, cả tàu bỏ cỏ.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0176",
+      "text": "Chim khôn kêu tiếng rảnh rang, Người khôn nói tiếng dịu dàng dễ nghe.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0177",
+      "text": "Rút dây sợ động đến rừng, giận người chớ để lòng trừng mắt trông.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0178",
+      "text": "Tốt gỗ hơn tốt nước sơn, Xấu người đẹp nết còn hơn đẹp người.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0179",
+      "text": "Cười người chớ vội cười lâu, Cười người hôm trước hôm sau người cười.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0180",
+      "text": "Đánh kẻ chạy đi, không ai đánh người chạy lại.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0181",
+      "text": "Áo rách khéo vá hơn lành vụng may.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0182",
+      "text": "Thẳng mực tàu đau lòng gỗ.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0183",
+      "text": "Ăn cây nào rào cây nấy.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0184",
+      "text": "Một giọt máu đào hơn ao nước lã.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0185",
+      "text": "Tâm an vạn sự an, tâm loạn vạn sự phiền.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0186",
+      "text": "Bình thản đón nhận sóng gió, an yên tận hưởng tháng ngày.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0187",
+      "text": "Nước trong thì không có cá, người xét nét quá thì không có bạn.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0188",
+      "text": "Buông bỏ một phần phiền não, gặt hái một phần an vui.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0189",
+      "text": "Sống đơn giản cho đời thanh thản, Nghĩ vô tư cho giấc ngủ tròn.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0190",
+      "text": "Ăn cơm có canh, tu hành có bạn, sống đời có tâm.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0191",
+      "text": "Nhàn thân chưa hẳn là nhàn, tâm không vướng bận mới là thảnh thơi.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0192",
+      "text": "Hoa nở một mùa, người sống một kiếp, hà tất phải so đo hơn thiệt.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0193",
+      "text": "Một nụ cười bằng mười thang thuốc bổ.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0194",
+      "text": "Trời cao biển rộng mặc cá bơi, lòng dạ thênh thang mặc sóng xô.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0195",
+      "text": "Sông sâu tĩnh lặng lững lờ trôi, lúa chín cúi đầu nụ cười tươi.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0196",
+      "text": "Người khôn giấu sự sắc sảo vào trong, người đức độ giữ sự từ tốn nơi ngoài.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0197",
+      "text": "Công cha như núi Thái Sơn, Nghĩa mẹ như nước trong nguồn chảy ra.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0198",
+      "text": "Một lòng thờ mẹ kính cha, Cho tròn chữ hiếu mới là đạo con.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0199",
+      "text": "Anh em như thể tay chân, Rách lành đùm bọc dở hay đỡ đần.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0200",
+      "text": "Thuận vợ thuận chồng, tát biển Đông cũng cạn.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0201",
+      "text": "Con có cha như nhà có nóc, con có mẹ như kẹo ngọt trong tay.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0202",
+      "text": "Khôn ngoan đối đáp người ngoài, Gà cùng một mẹ chớ hoài đá nhau.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0203",
+      "text": "Cá không ăn muối cá ươn, Con cãi cha mẹ trăm đường con hư.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0204",
+      "text": "Cơm cha áo mẹ chữ thầy, Gắng công mà học có ngày thành danh.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0205",
+      "text": "Trọng thầy mới được làm thầy.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0206",
+      "text": "Tôn sư trọng đạo, ngàn đời khắc ghi.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0207",
+      "text": "Muốn sang thì bắc cầu kiều, Muốn con hay chữ thì yêu lấy thầy.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0208",
+      "text": "Thời gian thấm thoát thoi đưa, tuổi xanh mấy độ sớm trưa hao mòn.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0209",
+      "text": "Được mùa chớ phụ ngô khoai, Đến khi thất bát lấy ai bạn cùng.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0210",
+      "text": "Sống có nghĩa có tình, thác về đất mẹ hiển vinh muôn đời.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0211",
+      "text": "Ăn trông nồi, ngồi trông hướng.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0212",
+      "text": "Lời chào cao hơn mâm cỗ.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0213",
+      "text": "Bán anh em xa, mua láng giềng gần.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0214",
+      "text": "Một miếng khi đói bằng một gói khi no.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0215",
+      "text": "Của cho không bằng cách cho.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0216",
+      "text": "Ăn miếng chả, trả miếng bùi, Lấy ân báo ân trọn đời ấm êm.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0217",
+      "text": "Không ai giàu ba họ, không ai khó ba đời.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0218",
+      "text": "Thương nhau trái ấu cũng tròn, Ghét nhau bồ hòn cũng méo.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0219",
+      "text": "Yêu nhau mấy núi cũng trèo, Mấy sông cũng lội, mấy đèo cũng qua.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0220",
+      "text": "Râu tôm nấu với ruột bầu, Chồng chan vợ húp gật đầu khen ngon.",
+      "author": "Ca dao & Tục ngữ Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0221",
+      "text": "Thực hành tiết kiệm, kiên quyết chống tham ô, lãng phí, quan liêu.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0222",
+      "text": "Muốn xây dựng chủ nghĩa xã hội, trước hết cần có những con người xã hội chủ nghĩa.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0223",
+      "text": "Đoàn kết là sức mạnh, đoàn kết là thắng lợi.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0224",
+      "text": "Lấy gương người tốt việc tốt để hằng ngày giáo dục lẫn nhau là một trong những cách tốt nhất để xây dựng Đảng, xây dựng các tổ chức cách mạng.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0225",
+      "text": "Việc gì có lợi cho dân, ta phải hết sức làm. Việc gì hại đến dân, ta phải hết sức tránh.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0226",
+      "text": "Cán bộ, đảng viên phải là người đầy tớ thật trung thành của nhân dân.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0227",
+      "text": "Thắng không kiêu, bại không nản, luôn khiêm tốn học hỏi không ngừng.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0228",
+      "text": "Luyện thân thể cho khỏe mạnh, rèn trí óc cho sáng suốt, giữ đạo đức cho trong lành.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0229",
+      "text": "Lòng trung thực và tinh thần phụng sự là phẩm chất quý báu nhất của con người.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0230",
+      "text": "Bất kỳ việc gì cũng phải suy nghĩ cho kỹ, quyết định cho đúng, chấp hành cho kiên quyết.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0231",
+      "text": "Mỗi người tốt, mỗi việc tốt là một bông hoa đẹp, cả dân tộc ta là một rừng hoa đẹp.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0232",
+      "text": "Càng trong bão tố hiểm nguy, ý chí kiên định càng tỏ rõ phẩm cách anh hùng.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0233",
+      "text": "Chân lý là cái gì có lợi cho Tổ quốc, cho nhân dân. Cái gì trái với lợi ích của Tổ quốc và nhân dân tức là không phải chân lý.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0234",
+      "text": "Tương lai thuộc về thế hệ trẻ biết ước mơ và dám hành động vì cộng đồng.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0235",
+      "text": "Tự phê bình và phê bình như rửa mặt mỗi ngày, để luôn giữ tâm tính trong sạch.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0236",
+      "text": "Thác là thể phách, còn là tinh anh.",
+      "author": "Nguyễn Du",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0237",
+      "text": "Một manh chiếu hẹp nương thân, Tiếng chuông thanh thản xa gần lắng nghe.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0238",
+      "text": "Dù khi gió giáp mưa phùn, Đốt hương thiền viện gửi hồn thanh tao.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0239",
+      "text": "Duyên hội ngộ cũng là duyên kỳ ngộ, Lòng tri ân xin gửi trọn mai sau.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0240",
+      "text": "Rõ ràng trong ngọc trắng ngà, Dày dày đúc sẵn một tòa thiên nhiên.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0241",
+      "text": "Chữ trinh còn một chút này, Chẳng cầm cho vững lại giày cho tan.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0242",
+      "text": "Mối tình thoang thoảng hương bay, Trăm năm hẹn ước đắp xây vuông tròn.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0243",
+      "text": "Tiết thanh minh một tiết trong lành, Cỏ non xanh tận chân trời bao la.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0244",
+      "text": "Đau đớn thay phận đàn bà, Lời rằng bạc mệnh cũng là lời chung.",
+      "author": "Nguyễn Du",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0245",
+      "text": "Sống nhờ ơn đất thác về cội xưa, Lòng trần rũ sạch nắng mưa cuộc đời.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0246",
+      "text": "Trăng tà soi bóng cô đơn, Gửi câu thương nhớ qua ngàn trùng xa.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0247",
+      "text": "Gặp nhau một khắc cũng là trăm năm.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0248",
+      "text": "Thanh liêm giữ dạ thẳng ngay, Danh thơm lưu dấu tháng ngày dài lâu.",
+      "author": "Nguyễn Trãi",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0249",
+      "text": "Trời đất soi chung lòng dạ sáng, Chẳng tham danh lợi chẳng phiền ưu.",
+      "author": "Nguyễn Trãi",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0250",
+      "text": "Lòng son một tấc soi trời đất, Gió mát trăng thanh bạn với đời.",
+      "author": "Nguyễn Trãi",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0251",
+      "text": "Danh lợi màng chi chốn thị thành, Về đây non nước một màu xanh.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0252",
+      "text": "Gặp cảnh ngộ nào an cảnh ấy, Giữ lòng trong sạch mặc trần ai.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0253",
+      "text": "Chớ cậy khôn ngoan mà lấn át, Lòng nhân đức mới đọng dài lâu.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0254",
+      "text": "Vạn việc trên đời đều từ chí khí mà sinh ra.",
+      "author": "Lê Quý Đôn",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0255",
+      "text": "Kẻ sĩ không có học thức thì như đi đêm không có đuốc.",
+      "author": "Lê Quý Đôn",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0256",
+      "text": "Y học là nghệ thuật nuôi dưỡng sự sống, phải coi trọng tính mạng con người hơn bạc vàng.",
+      "author": "Hải Thượng Lãn Ông (Lê Hữu Trác)",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0257",
+      "text": "Tâm bình khí hòa, thức ăn thanh đạm, ấy là phương thuốc trường sinh vô giá.",
+      "author": "Hải Thượng Lãn Ông (Lê Hữu Trác)",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0258",
+      "text": "Nhất sinh đê thủ bái hoa mai (Một đời chỉ cúi đầu trước hoa mai thanh khiết).",
+      "author": "Cao Bá Quát",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0259",
+      "text": "Thơ văn cốt ở khí phách hiên ngang, chẳng uốn mình vì danh lợi nhỏ mọn.",
+      "author": "Cao Bá Quát",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0260",
+      "text": "Khai dân trí, chấn dân khí, hậu dân sinh.",
+      "author": "Phan Châu Trinh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0261",
+      "text": "Muốn tự cường phải tự lực, muốn tiến bộ phải mở mang tri thức.",
+      "author": "Phan Châu Trinh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0262",
+      "text": "Lấy chí công mà đối đãi với đời, lấy lòng can trường mà giữ gìn phẩm tiết.",
+      "author": "Huỳnh Thúc Kháng",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0263",
+      "text": "Nam quốc sơn hà Nam đế cư, Tiệt nhiên định phận tại thiên thư.",
+      "author": "Lý Thường Kiệt",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0264",
+      "text": "Ta thà làm ma nước Nam, chứ không thèm làm vương đất Bắc.",
+      "author": "Trần Bình Trọng",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0265",
+      "text": "Thần tốc, thần tốc hơn nữa; táo bạo, táo bạo hơn nữa; tranh thủ từng giờ, từng phút xốc tới mặt trận giải phóng miền Nam.",
+      "author": "Võ Nguyên Giáp",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0266",
+      "text": "Hòa bình và độc lập tự do là khát vọng thiêng liêng nhất của dân tộc Việt Nam.",
+      "author": "Võ Nguyên Giáp",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0267",
+      "text": "Lòng trung thực và sự tận tụy với nhân dân là thước đo cao nhất của nhân cách.",
+      "author": "Tôn Đức Thắng",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0268",
+      "text": "Bàn tay ta làm nên tất cả, Có sức người sỏi đá cũng thành cơm.",
+      "author": "Hoàng Trung Thông (Thơ Việt Nam)",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0269",
+      "text": "Dẫu cho trăm đắng nghìn cay, Gắng công vượt khó có ngày nở hoa.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0270",
+      "text": "Lên non mới biết non cao, Nuôi con mới biết công lao mẹ hiền.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0271",
+      "text": "Thuyền to thì sóng lớn, gan lớn ắt vượt trùng khơi.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0272",
+      "text": "Đường đi khó, không khó vì ngăn sông cách núi, mà khó vì lòng người ngại núi e sông.",
+      "author": "Nguyễn Bá Học",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0273",
+      "text": "Có vất vả mới thanh nhàn, Không dưng ai dễ cầm tàn che cho.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0274",
+      "text": "Trăm năm bia đá thì mòn, Nghìn năm bia miệng vẫn còn trơ trơ.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0275",
+      "text": "Làm người phải đắn phải đo, Phải cân nặng nhẹ phải dò nông sâu.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0276",
+      "text": "Ở đời muôn sự của chung, Hơn nhau một tiếng khoan dung nhân từ.",
+      "author": "Triết lý Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0277",
+      "text": "Trăm nết thiện thì hiếu thảo đứng đầu.",
+      "author": "Đạo lý Cổ truyền Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0278",
+      "text": "Lời nói đọi máu, giữ gìn khẩu nghiệp thân tâm an bình.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0279",
+      "text": "Khôn cho người ta sợ, dại cho người ta thương, dở dở ương ương chỉ tổ người ta ghét.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0280",
+      "text": "Người khôn đón trước rào sau, Để cho khỏi lỡ mai sau lỡ làng.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0281",
+      "text": "Cười hở mười cái răng, chớ để lòng mang nặng sầu hận.",
+      "author": "Triết lý Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0282",
+      "text": "Được lòng trước đặng lòng sau, Lời ăn tiếng nói ngọt ngào dễ thương.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0283",
+      "text": "Ở sao cho vừa lòng người, Ở rộng người cười, ở hẹp người chê.",
+      "author": "Ca dao Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0284",
+      "text": "Cơm sôi bớt lửa thì ngon, Chồng giận bớt lời muôn sự bình yên.",
+      "author": "Ca dao Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0285",
+      "text": "Một nụ cười bằng mười thang thuốc bổ, Giữ lòng hoan hỷ đẩy lùi ưu tư.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0286",
+      "text": "Rừng xanh đâu thiếu lá khô, Đời người đâu thiếu những giờ gian nan.",
+      "author": "Ca dao Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0287",
+      "text": "Qua cơn bĩ cực đến hồi thái lai.",
+      "author": "Thành ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0288",
+      "text": "Sông có khúc, người có lúc.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0289",
+      "text": "Vàng thật không sợ lửa, người ngay không sợ lời gièm pha.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0290",
+      "text": "Cây cao bóng mát che đời, Người lành đức độ sáng soi gia đình.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0291",
+      "text": "Mỗi ngày gieo một hạt mầm thiện, Ngày sau gặt hái cả mùa an nhiên.",
+      "author": "Triết lý Sống Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0292",
+      "text": "Uống ngụm nước trong mát lòng dạ, Ngắm đóa sen hồng lắng bụi trần.",
+      "author": "Ca dao Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0293",
+      "text": "Gió đưa cành trúc la đà, Tiếng chuông Trấn Vũ canh gà Thọ Xương.",
+      "author": "Ca dao Hà Nội xưa",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0294",
+      "text": "Dù ai đi ngược về xuôi, Nhớ ngày Giỗ Tổ mùng mười tháng ba.",
+      "author": "Ca dao Đất Tổ",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0295",
+      "text": "Quê hương là chùm khế ngọt, Cho con trèo hái mỗi ngày.",
+      "author": "Đỗ Trung Quân (Thơ Việt Nam)",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0296",
+      "text": "Quê hương nếu ai không nhớ, Sẽ không lớn nổi thành người.",
+      "author": "Đỗ Trung Quân (Thơ Việt Nam)",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0297",
+      "text": "Ta về ta tắm ao ta, Dù trong dù đục ao nhà vẫn hơn.",
+      "author": "Ca dao Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0298",
+      "text": "Đường xa vạn dặm chẳng ngơi, Đôi chân bền bỉ tới nơi mong chờ.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0299",
+      "text": "Mặt trời mọc rồi lặn, vầng trăng khuyết lại tròn, kiên tâm giữ đạo nghĩa son sắt.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0300",
+      "text": "Gieo nhân lành gặt quả ngọt, Lòng ngay dạ thẳng bước đường thênh thang.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0301",
+      "text": "Sống trên đời cần có một tấm lòng, Để làm gì em biết không? Để gió cuốn đi.",
+      "author": "Trịnh Công Sơn",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0302",
+      "text": "Mỗi ngày tôi chọn một niềm vui, Chọn những bông hoa và những nụ cười.",
+      "author": "Trịnh Công Sơn",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0303",
+      "text": "Hãy yêu nhau đi khi rừng thay lá, Hãy yêu nhau đi dòng nước đã trôi xa.",
+      "author": "Trịnh Công Sơn",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0304",
+      "text": "Cảm ơn đời mỗi sớm mai thức dậy, Ta có thêm ngày nữa để yêu thương.",
+      "author": "Kahlil Gibran (Bản dịch Trịnh Công Sơn)",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0305",
+      "text": "Sống chậm lại, nghĩ khác đi và yêu thương nhiều hơn.",
+      "author": "Triết lý Giới trẻ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0306",
+      "text": "Học cách mỉm cười với giông bão, bạn sẽ thấy cầu vồng rạng rỡ sau mưa.",
+      "author": "Văn học Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0307",
+      "text": "Tâm hồn đẹp tựa hồ nước mùa thu, phẳng lặng và trong veo đến tận đáy.",
+      "author": "Thơ Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0308",
+      "text": "Mỗi chặng đường đi qua là một bài học, Mỗi con người gặp gỡ là một cơ duyên.",
+      "author": "Triết lý Sống Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0309",
+      "text": "Hạnh phúc không ở xa xôi, Hạnh phúc là những điều bình dị quanh mình.",
+      "author": "Triết lý Sống Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0310",
+      "text": "Khi lòng tĩnh lặng, cả thế giới đều trở nên dịu dàng.",
+      "author": "Thiền học Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0311",
+      "text": "Giữ tâm thanh thản giữa dòng đời hối hả là bản lĩnh lớn nhất của người trưởng thành.",
+      "author": "Triết lý Sống Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0312",
+      "text": "Biết ơn quá khứ, trân quý hiện tại và mỉm cười bước tới tương lai.",
+      "author": "Triết lý Sống Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0313",
+      "text": "Đừng để lời khen làm bạn tự mãn, đừng để lời chê làm bạn nản lòng.",
+      "author": "Tục ngữ Hiện đại Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0314",
+      "text": "Mỗi bông hoa nở đều có thời khắc của riêng nó, hãy kiên nhẫn với chính mình.",
+      "author": "Triết lý Sống Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0315",
+      "text": "Lòng bao dung là thứ hương thơm cỏ dại tỏa ra ngay cả khi bị giẫm lên.",
+      "author": "Văn học Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0316",
+      "text": "Tri thức làm người ta khiêm nhường, sự nông cạn khiến người ta kiêu ngạo.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0317",
+      "text": "Sống tử tế là cách trả ơn cuộc đời đẹp đẽ nhất.",
+      "author": "Triết lý Sống Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0318",
+      "text": "Chân thành là chiếc cầu nối bền vững nhất giữa hai tâm hồn.",
+      "author": "Triết lý Sống Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0319",
+      "text": "Thanh niên phải có tinh thần tự lực tự cường, xung kích đi đầu trong mọi gian khó.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0320",
+      "text": "Mỗi ngày tiến bộ một ít, tích tiểu thành đại, ắt sẽ đạt tới thành công rực rỡ.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0321",
+      "text": "Ý chí kiên cường không chịu lùi bước trước bất kỳ trở lực nào.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0322",
+      "text": "Học tập chuyên cần, rèn luyện thân thể, chuẩn bị gánh vác việc lớn mai sau.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0323",
+      "text": "Gian nan là trường học tốt nhất để tôi luyện bản lĩnh người cách mạng.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0324",
+      "text": "Khó khăn dẫu nhiều bao nhiêu, quyết tâm cao hơn bấy nhiêu ắt vượt qua.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0325",
+      "text": "Lòng kiên định và đức nhẫn nại là chìa khóa mở mọi cánh cửa thắng lợi.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0326",
+      "text": "Tiến lên! Toàn thắng ắt về ta khi triệu con tim cùng chung một nhịp đập.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0327",
+      "text": "Sự nghiệp lớn bắt đầu từ những việc làm nhỏ được thực hiện bằng cả tấm lòng.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0328",
+      "text": "Tự tin vào chính sức mình, đoàn kết keo sơn không gì chia cắt nổi.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0329",
+      "text": "Thực hành dân chủ là chiếc chìa khóa vạn năng để giải quyết mọi khó khăn.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0330",
+      "text": "Phải biết lắng nghe ý kiến của quần chúng, học hỏi từ thực tiễn phong phú.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0331",
+      "text": "Nói ít làm nhiều, làm việc gì cũng phải đem lại hiệu quả thiết thực cho dân.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0332",
+      "text": "Tự soi, tự sửa khuyết điểm để ngày một hoàn thiện nhân cách bản thân.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0333",
+      "text": "Khiêm tốn bao nhiêu cũng chưa đủ, tự kiêu một chút cũng là thừa.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0334",
+      "text": "Đạo đức là cái gốc, tài năng là cái ngọn; gốc vững thì cành lá mới tốt tươi.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0335",
+      "text": "Sự chân thật và lòng chính trực là tấm gương sáng nhất của con người.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0336",
+      "text": "Học để phụng sự, học để mở rộng tầm nhìn và bồi đắp lòng nhân ái.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0337",
+      "text": "Biết phân biệt đúng sai, kiên quyết bảo vệ chân lý và lẽ phải.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0338",
+      "text": "Đường lối đúng đắn cộng với lòng dân đồng thuận ắt xoay chuyển càn khôn.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0339",
+      "text": "Tôi chỉ có một ham muốn, ham muốn tột bậc, là làm sao cho nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học hành.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0340",
+      "text": "Yêu thương đồng bào, sẻ chia gian khó với những người nghèo khổ, hoạn nạn.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0341",
+      "text": "Tình đoàn kết hữu nghị bốn phương là tài sản vô giá của nhân loại tiến bộ.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0342",
+      "text": "Tình thương bao la dành cho các cháu thiếu niên, nhi đồng - mầm non của đất nước.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0343",
+      "text": "Lấy tình thương yêu giai cấp và nhân loại để cảm hóa con người.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0344",
+      "text": "Trái tim người yêu nước luôn đập cùng nhịp đập với từng nỗi vui buồn của quê hương.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0345",
+      "text": "Mỗi giọt mồ hôi của người lao động đều đáng được trân trọng và yêu quý.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0346",
+      "text": "Tình nghĩa keo sơn giữa đồng chí, đồng bào là điểm tựa trong bão táp.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0347",
+      "text": "Hiếu với cha mẹ, nghĩa với thầy cô, thủy chung son sắt với bạn bè.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0348",
+      "text": "Sống nhân ái, vị tha, luôn đặt hạnh phúc của số đông lên trên quyền lợi cá nhân.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0349",
+      "text": "Đạo làm người lấy chữ Tín làm đầu, thất tín một lần vạn sự hư hao.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0350",
+      "text": "Lòng son sáng rực giữa đêm tăm tối, soi rõ thiện ác giữa cõi nhân gian.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0351",
+      "text": "Trời nào phụ kẻ có lòng, đất nào nỡ hẹp với người trượng phu.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0352",
+      "text": "Nhìn thấu lẽ biến thiên của tạo hóa để lòng không hoảng hốt trước biến cố.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0353",
+      "text": "Một tấc lòng thành đáng giá nghìn vàng giữa bể dâu chìm nổi.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0354",
+      "text": "Biết dừng đúng lúc là người trí, biết nhẫn nhịn đúng thời là kẻ can trường.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0355",
+      "text": "Họa phúc tuần hoàn theo luật nhân quả, gieo mầm đức độ gặt hái phúc lành.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0356",
+      "text": "Tài cao chí lớn mà thiếu chữ Tâm thì như thuyền không lái giữa cuồng phong.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0357",
+      "text": "So đo chi chút lợi danh bèo bọt, để trôi mất tháng ngày quý giá của đời người.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0358",
+      "text": "Người có trí biết nhìn xa trông rộng, không vì cái lợi trước mắt mà đánh mất tương lai.",
+      "author": "Nguyễn Du",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0359",
+      "text": "Tấm lòng thủy chung son sắt dẫu qua ngàn trùng dâu bể vẫn vẹn nguyên.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0360",
+      "text": "Gửi tình theo áng mây bay, thương người xa xứ chuốt ngày sầu đông.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0361",
+      "text": "Chữ duyên chữ nợ gắn kết đôi ta qua muôn nẻo thăng trầm.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0362",
+      "text": "Một lời tri kỷ ấm lòng suốt ba mùa đông giá rét.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0363",
+      "text": "Thương nhau chẳng quản xa xôi, tơ hồng se mối đất trời minh chứng.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0364",
+      "text": "Tình sâu nghĩa nặng như biển rộng, ơn đức sinh thành sánh tựa trời cao.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0365",
+      "text": "Ánh trăng chứng giám lời thề ước, mãi mãi son sắt chẳng đổi dời.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0366",
+      "text": "Nụ cười rạng rỡ của người thương làm xua tan ngút ngàn u tối.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0367",
+      "text": "Dẫu chia cách ngàn dặm quan san, hai trái tim vẫn chung một nhịp đập.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0368",
+      "text": "Yêu là biết nâng niu trân trọng từng phút giây hạnh ngộ trong đời.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0369",
+      "text": "Nương bóng cửa thiền buông hết mối sầu nhân thế.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0370",
+      "text": "Tiếng chuông sớm điểm tan giấc mộng hão huyền, lòng nhẹ tựa cánh chim trời.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0371",
+      "text": "Gió thoảng qua rèm thanh tịnh, tâm an nhiên ngắm đóa sen hồng.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0372",
+      "text": "Một chén trà thơm dưới trăng thanh, thảnh thơi quên hết bụi trần ai.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0373",
+      "text": "Lòng phẳng lặng như mặt gương thu, mặc sóng gió cuộc đời xô đẩy.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0374",
+      "text": "Buông tay khỏi những vướng mắc tơ vò, tự do bay giữa bầu trời xanh thẳm.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0375",
+      "text": "Đêm thanh vắng lắng nghe hơi thở, cảm nhận nhịp đập thanh bình của đất trời.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0376",
+      "text": "An yên giữa chốn thôn dã, sớm chiều vui với cỏ cây hoa lá.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0377",
+      "text": "Thanh thản ngắm mây trôi về cuối non đoài, không vướng bận phiền lo.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0378",
+      "text": "Giây phút tĩnh lặng trong tâm hồn là báu vật không gì sánh được.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0379",
+      "text": "Mỗi bước chân đi trên mặt đất là một phép lạ mầu nhiệm.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0380",
+      "text": "Tâm an thì cảnh nào cũng an, tâm tĩnh thì ở đâu cũng là tịnh độ.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0381",
+      "text": "Uống một ngụm trà trong chánh niệm, thấy cả mây trời và vũ trụ trong chén trà.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0382",
+      "text": "Bạn không cần phải trở thành ai khác, bạn chỉ cần là chính mình một cách trọn vẹn.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0383",
+      "text": "Hãy nhẹ nhàng với chính mình như cách bạn nâng niu một đóa hoa mới nở.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0384",
+      "text": "Cơn giận là một đứa trẻ đang khóc trong bạn, hãy ôm ấp nó bằng sự dịu dàng.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0385",
+      "text": "Hơi thở vào là sự sống, hơi thở ra là sự buông xả an lành.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0386",
+      "text": "Hòa bình bắt đầu từ nụ cười của chính bạn vào mỗi ban mai.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0387",
+      "text": "Đừng đuổi theo tương lai, đừng đắm chìm trong quá khứ, hiện tại đang rực rỡ đón chờ bạn.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0388",
+      "text": "Khi bạn yêu thương bằng sự thấu hiểu, tình yêu ấy sẽ chữa lành mọi tổn thương.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0389",
+      "text": "Lời nói nhã nhặn là mật ngọt tưới mát tâm hồn, lời lẽ cay nghiệt là nhát dao cứa nát tình thâm.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0390",
+      "text": "Gieo hạt nhân ái khắp bốn phương trời, mai sau con cháu hưởng phước thanh bình.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0391",
+      "text": "Biết trân trọng những gì mình đang có là cội nguồn của sự đủ đầy và hạnh phúc.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0392",
+      "text": "Sống có trước có sau, ngàn năm bia miệng khắc sâu chữ tình.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0393",
+      "text": "Trời không tuyệt đường người có thiện lương, đất luôn che chở người có nghĩa khí.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0394",
+      "text": "Cây có vững chãi thì bão dông nào cũng chẳng thể quật ngã.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0395",
+      "text": "Một lời tha thứ cởi bỏ vạn nút thắt trong lòng người.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0396",
+      "text": "Đi khắp thế gian không ai tốt bằng mẹ, gánh nặng cuộc đời không ai khổ bằng cha.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0397",
+      "text": "Thành công lớn nhất của đời người là giữ được sự lương thiện thuần khiết.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0398",
+      "text": "Mỗi sớm mai thức dậy với lòng biết ơn là bạn đã nắm giữ một ngày tuyệt vời.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0399",
+      "text": "Có chí thì bay lên trời, có gan thì vượt ngàn khơi sóng cồn.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0400",
+      "text": "Mỗi bước đi hôm nay là nền móng cho ngôi nhà tương lai ngày mai.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0401",
+      "text": "Chông gai thử thách là chiếc lò nung rèn giũa ngọc quý thành bảo vật.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0402",
+      "text": "Không ngừng học hỏi, không ngừng hoàn thiện bản thân mỗi ngày trôi qua.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0403",
+      "text": "Dẫu đường xa xôi nghìn dặm, quyết tâm không đổi ắt chạm đích thành công.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0404",
+      "text": "Thất bại chỉ là bài học tạm thời, ý chí kiên định mới là chiến thắng mãi mãi.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0405",
+      "text": "Bình minh luôn xuất hiện sau đêm trường tăm tối nhất.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0406",
+      "text": "Hành động ngay hôm nay, chớ để ngày mai phải thốt lên lời hối tiếc.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0407",
+      "text": "Mặt đất nâng đỡ người chịu bước, bầu trời chào đón cánh chim dám bay.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0408",
+      "text": "Khát vọng vươn lên là nguồn năng lượng bất tận biến ước mơ thành hiện thực.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0409",
+      "text": "Im lặng đúng lúc là biểu hiện của trí tuệ sâu sắc và sự tự chủ tối cao.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0410",
+      "text": "Người thông minh lắng nghe nhiều hơn nói, người đức độ suy nghĩ kỹ trước khi hành động.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0411",
+      "text": "Học để mở mang cõi lòng, chứ không phải học để kiêu căng tự phụ.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0412",
+      "text": "Sự khiêm tốn thu hút vạn điều tốt lành, thói tự mãn đẩy lùi may mắn.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0413",
+      "text": "Nhìn lỗi mình để sửa, nhìn ưu điểm của người để học tập noi theo.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0414",
+      "text": "Tâm sáng như gương soi thấu chân tướng sự việc, không bị màn sương định kiến che mờ.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0415",
+      "text": "Hiểu được chính mình là khởi đầu của trí tuệ vô tận.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0416",
+      "text": "Biết nhận sai và sửa đổi là phẩm chất của bậc quân tử trượng phu.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0417",
+      "text": "Thời gian là vị thẩm phán công minh nhất chứng thực lòng người.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0418",
+      "text": "Giàu sang mà thiếu đức độ như hoa đẹp mà không có hương thơm.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0419",
+      "text": "Buông bớt những kỳ vọng viển vông để lòng nhẹ nhõm như cánh én mùa xuân.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0420",
+      "text": "Sống an hòa với vạn vật xung quanh, bạn sẽ cảm nhận được vẻ đẹp tĩnh lặng của đất trời.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0421",
+      "text": "Tâm thanh thản là liều thuốc dưỡng sinh màu nhiệm nhất cho thể xác và tâm hồn.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0422",
+      "text": "Một tách trà sớm, một cuốn sách hay, ngắm nhành lan nở - ấy là cảnh tiên trần thế.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0423",
+      "text": "Không so đo hơn thua với người, chỉ cần ngày hôm nay tốt hơn ngày hôm qua.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0424",
+      "text": "Khi lòng bạn không dậy sóng, gió bão ngoài kia cũng chỉ là hư ảo thoảng qua.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0425",
+      "text": "Hạnh phúc là khi được thở êm đềm trong sự bình an và hòa ái.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0426",
+      "text": "Cười với cuộc đời một nụ cười bao dung, cuộc đời sẽ trả lại bạn ngàn sự dịu dàng.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0427",
+      "text": "Trời xanh mây trắng nắng vàng, tâm hồn phẳng lặng an khang sớm chiều.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0428",
+      "text": "Giữ lòng trong sạch tựa bông sen giữa đầm lầy, không vướng chút bụi nhơ.",
+      "author": "Kho tàng Văn hóa Dân gian Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0429",
+      "text": "Ai ơi bưng bát cơm đầy, Dẻo thơm một hạt đắng cay muôn phần.",
+      "author": "Ca dao Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0430",
+      "text": "Ơn cha nặng lắm ai ơi, Nghĩa mẹ bằng trời chín tháng cưu mang.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0431",
+      "text": "Cây xanh thì lá cũng xanh, Cha mẹ hiền lành để đức cho con.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0432",
+      "text": "Muốn no thì phải chăm làm, Một hạt thóc vàng chín hạt mồ hôi.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0433",
+      "text": "Rủ nhau đi cấy đi cày, Bây giờ khó nhọc có ngày phong lưu.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0434",
+      "text": "Đố ai lặn suối ngâm than, Cho củi bén lửa cho than đượm nồng.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0435",
+      "text": "Thương người như thể thương thân, Nhường cơm sẻ áo đậm phần nhân gian.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0436",
+      "text": "Ăn quả nhớ kẻ trồng cây, Có danh có vọng nhớ ngày hàn vi.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0437",
+      "text": "Đường mòn nhân đức ai qua, Danh thơm muôn thuở đậm đà khắc ghi.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0438",
+      "text": "Một nong tằm là năm nong kén, Chăm chỉ cần cù ắt đến ngày vinh.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0439",
+      "text": "Khôn ngoan tạo dựng cơ đồ, Chớ nên ỷ lại đợi nhờ người ban.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0440",
+      "text": "Dẫu xây chín đợt phù đồ, Chẳng bằng làm phước cứu cho một người.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0441",
+      "text": "Sống đục sao bằng thác trong, Danh thơm lưu dấu ấm nồng non sông.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0442",
+      "text": "Ở đời nhân nghĩa làm đầu, Chữ tâm vẹn giữ ngàn câu chan hòa.",
+      "author": "Ca dao Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0443",
+      "text": "Người ta là hoa đất, trân quý sinh mệnh và lòng bao dung.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0444",
+      "text": "Tre già măng mọc, lớp sau nối tiếp lớp trước dựng xây cơ đồ.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0445",
+      "text": "Một cây làm chẳng nên non, Ba cây chụm lại nên hòn núi cao.",
+      "author": "Ca dao Việt Nam",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0446",
+      "text": "Sông sâu cá lặn tăm hơi, Người khôn ít nói nụ cười độ lượng.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0447",
+      "text": "Lạt mềm buộc chặt, dĩ nhu thắng cương là thuật sống bền lâu.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0448",
+      "text": "Mềm nắn rắn buông, tùy cơ ứng biến uyển chuyển như dòng nước.",
+      "author": "Tục ngữ Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0449",
+      "text": "Văn hóa nghệ thuật cũng là một mặt trận. Anh chị em là chiến sĩ trên mặt trận ấy.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0450",
+      "text": "Thi đua là yêu nước, yêu nước thì phải thi đua, những người thi đua là những người yêu nước nhất.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0451",
+      "text": "Mỗi người chúng ta đều có cái thiện và cái ác trong lòng. Phải làm cho phần tốt trong mỗi con người nảy nở như hoa mùa xuân.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0452",
+      "text": "Không sợ thiếu, chỉ sợ không công bằng; không sợ nghèo, chỉ sợ lòng dân không yên.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0453",
+      "text": "Dễ trăm lần không dân cũng chịu, Khó vạn lần dân liệu cũng xong.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0454",
+      "text": "Trước lầu Ngưng Bích khóa xuân, Vẻ non xa tấm trăng gần ở chung.",
+      "author": "Nguyễn Du",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0455",
+      "text": "Chân trời góc biển bơ vơ, Tấm lòng trinh bạch bao giờ phai sương.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0456",
+      "text": "Thương người trong cuộc gian nan, Gửi câu tri kỷ vạn ngàn ủi an.",
+      "author": "Nguyễn Du",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0457",
+      "text": "Bui một tấm lòng trung hiếu cũ, Ngày đêm cuồn cuộn nước triều dâng.",
+      "author": "Nguyễn Trãi",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0458",
+      "text": "Hái cúc bên đông thảnh thơi bước, Ngắm non nam biếc nhẹ nhàng buông.",
+      "author": "Nguyễn Trãi",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0459",
+      "text": "Lợi danh một giấc mộng phù du, Thảnh thơi vui thú với mây ngàn.",
+      "author": "Nguyễn Bỉnh Khiêm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0460",
+      "text": "Chữa bệnh phải chữa từ gốc, dưỡng người phải dưỡng từ tâm.",
+      "author": "Hải Thượng Lãn Ông (Lê Hữu Trác)",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0461",
+      "text": "Khi bạn thở vào và ý thức về thân thể mình, bạn đã đưa tâm trở về với thân.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0462",
+      "text": "Trái tim bạn càng rộng lớn, bạn càng chứa đựng được nhiều yêu thương.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0463",
+      "text": "Có hiểu mới có thương. Không hiểu biết sâu sắc thì không thể có tình yêu chân thật.",
+      "author": "Thiền sư Thích Nhất Hạnh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0464",
+      "text": "Cái chết không đáng sợ bằng một cuộc sống vô nghĩa và hèn hạ.",
+      "author": "Nam Cao",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0465",
+      "text": "Tôi muốn tắt nắng đi cho màu đừng nhạt mất, Tôi muốn buộc gió lại cho hương đừng bay đi.",
+      "author": "Xuân Diệu",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0466",
+      "text": "Ai mua trăng tôi bán trăng cho, Trăng nằm biểu hiện cõi hư vô.",
+      "author": "Hàn Mặc Tử",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0467",
+      "text": "Thuyền ai đậu bến sông trăng đó, Có chở trăng về kịp tối nay?",
+      "author": "Hàn Mặc Tử",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0468",
+      "text": "Tâm hồn tôi là một vườn hoa lá, Rất đậm hương và rộn rã tiếng chim.",
+      "author": "Chế Lan Viên",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0469",
+      "text": "Gió lay trúc động, gió thoảng trúc ngừng; Nhạn qua hồ trong, bóng chim chẳng lưu dấu.",
+      "author": "Thiền phái Trúc Lâm",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0470",
+      "text": "Mỗi bước chân chạm vào mặt đất là một đóa sen nở trong lòng.",
+      "author": "Thiền tông Việt Nam",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0471",
+      "text": "Mặt nước lặng mới soi bóng trăng vàng, lòng người tịnh mới thấy chân lý tỏ rạng.",
+      "author": "Thiền học Việt Nam",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0472",
+      "text": "Ví phỏng đường đời bằng phẳng cả, Anh hùng hào kiệt có hơn ai.",
+      "author": "Phan Bội Châu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0473",
+      "text": "Sống mà không có chí khí thì khác nào cây cỏ khô héo bên đường.",
+      "author": "Phan Bội Châu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0474",
+      "text": "Dậy! Dậy! Dậy! Mau mau thức tỉnh mà đền nợ nước, trả ơn non sông.",
+      "author": "Phan Bội Châu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0475",
+      "text": "Dẫu trăm lần ngã, quyết một lòng đứng dậy tiến lên.",
+      "author": "Phan Bội Châu",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0476",
+      "text": "Đã mang tiếng ở trong trời đất, Phải có danh gì với núi sông.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0477",
+      "text": "Không công danh thà nát với cỏ cây, Có chí khí mới làm nên đại nghiệp.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0478",
+      "text": "Trời đất cho ta một tấm thân, Phải làm sao cho rạng rỡ phong trần.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0479",
+      "text": "Được mất dương dương người thái thượng, Khen chê phơi phới ngọn đông phong.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "binh-yen"
+    },
+    {
+      "id": "vn0480",
+      "text": "Tri túc tiện túc, đãi túc hà thời túc. Tri nhàn tiện nhàn, đãi nhàn hà thời nhàn.",
+      "author": "Nguyễn Công Trứ",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0481",
+      "text": "Không có gì quý hơn độc lập, tự do.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0482",
+      "text": "Không có việc gì khó, chỉ sợ lòng không bền, đào núi và lấp biển, quyết chí ắt làm nên.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0483",
+      "text": "Có tài mà không có đức là người vô dụng, có đức mà không có tài thì làm việc gì cũng khó.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0484",
+      "text": "Học để làm việc, làm người, làm cán bộ. Học để phụng sự đoàn thể, giai cấp và nhân dân, Tổ quốc và nhân loại.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0485",
+      "text": "Học hỏi là một việc phải tiếp tục suốt đời.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0486",
+      "text": "Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "cuoc-song"
+    },
+    {
+      "id": "vn0487",
+      "text": "Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0488",
+      "text": "Cần, kiệm, liêm, chính, chí công vô tư.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0489",
+      "text": "Cái gì cũ mà xấu thì phải bỏ. Cái gì cũ mà không xấu, nhưng phiền phức thì phải sửa đổi lại cho hợp lý. Cái gì cũ mà tốt thì phải phát triển thêm.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0490",
+      "text": "Hễ còn một người Việt Nam bị bóc lột, bị nghèo nàn, thì tôi vẫn thấy rằng tôi chưa làm tròn nhiệm vụ.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0491",
+      "text": "Nước lấy dân làm gốc. Dân là gốc của nước, gốc có vững thì cây mới bền.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0492",
+      "text": "Một năm khởi đầu từ mùa xuân. Một đời khởi đầu từ tuổi trẻ. Tuổi trẻ là mùa xuân của xã hội.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0493",
+      "text": "Lòng yêu nước của nhân dân ta như một làn sóng vô cùng mạnh mẽ, to lớn, nó lướt qua mọi sự nguy hiểm, khó khăn.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0494",
+      "text": "Cán bộ là cái gốc của mọi công việc. Muôn việc thành công hoặc thất bại, đều do cán bộ tốt hoặc kém.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0495",
+      "text": "Tự lực cánh sinh, dựa vào sức mình là chính.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0496",
+      "text": "Làm việc gì cũng phải có cái tâm trong sáng và tinh thần trách nhiệm cao.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0497",
+      "text": "Người cách mạng phải có đạo đức cách mạng làm nền tảng, mới hoàn thành được nhiệm vụ vẻ vang.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tri-tue"
+    },
+    {
+      "id": "vn0498",
+      "text": "Giữ gìn sự đoàn kết nhất trí của Đảng như giữ gìn con ngươi của mắt mình.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "tinh-yeu"
+    },
+    {
+      "id": "vn0499",
+      "text": "Non sông Việt Nam có trở nên tươi đẹp hay không, chính là nhờ một phần lớn ở công học tập của các em.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    },
+    {
+      "id": "vn0500",
+      "text": "Biết đồng lòng thì việc gì cũng làm được.",
+      "author": "Chủ tịch Hồ Chí Minh",
+      "topic": "dong-luc"
+    }
+  ]
+}

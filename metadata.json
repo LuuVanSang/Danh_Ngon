@@ -1,0 +1,6 @@
+{
+  "name": "Danh Ngôn Màn Hình Khóa",
+  "description": "Ứng dụng Android danh ngôn màn hình khóa với thông báo im lặng 3 lần/ngày, vuốt xem với hình nền nghệ thuật, thích và chia sẻ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
